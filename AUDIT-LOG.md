@@ -16,6 +16,7 @@ Running record of stack audits. Cadence: quarterly. The stack is a living docume
 - What existing automation or skill went forgotten
 - What template is stale and should be retired
 - Which open questions in 05 have been settled by experience
+- Which rules in 05 — and which cautions in persistent memory — no longer earn their place: the reason has lapsed, or the rule answered one bad session rather than a pattern. Remove them, work with the stack for a few weeks, and restore only what you miss.
 
 ## [YYYY-MM-DD] — [What changed]
 

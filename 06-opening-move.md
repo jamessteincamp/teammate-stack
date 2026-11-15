@@ -14,15 +14,15 @@
 
 **Think-aloud mode** *(for people who compose by talking)*
 
-> I'm going to think out loud about **[X]**. Don't interrupt with answers. Capture, then reflect the structure back to me and name the gaps.
+> I’m going to think out loud about **[X]**. Don’t interrupt with answers. Capture, then reflect the structure back to me and name the gaps.
 
 **Retrieval mode** *(reconstructing an event, a source, or a fact trail)*
 
-> Help me reconstruct **[EVENT / TOPIC]**. I'll bring fragments. Give me candidate facts with provenance, and keep confirmed clearly separated from plausible.
+> Help me reconstruct **[EVENT / TOPIC]**. I’ll bring fragments. Give me candidate facts with provenance, and keep confirmed clearly separated from plausible.
 
 **Synthesis mode**
 
-> Sweep **[my inbox / my notes on X]** for surprise edges — connections I haven't made. One good unexpected edge beats three summaries. Don't edit the notes.
+> Sweep **[my inbox / my notes on X]** for surprise edges — connections I haven’t made. One good unexpected edge beats three summaries. Don’t edit the notes.
 
 **Build mode**
 

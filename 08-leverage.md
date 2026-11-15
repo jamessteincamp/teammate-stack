@@ -2,7 +2,7 @@
 
 *Where repeated work becomes reusable advantage. The governing rule: build just-in-time — slot the component that matters in the moment, defer the rest until needed. Nothing here is built on speculation.*
 
-> **How to fill this in.** This file is an inventory of what's already paying off and a queue of what might. The discipline is in the queue: everything on it should be waiting for a *felt* need, not an imagined one. If you've built something on this list before the need arrived, that's a note for the audit log.
+> **How to fill this in.** This file is an inventory of what’s already paying off and a queue of what might. The discipline is in the queue: everything on it should be waiting for a *felt* need, not an imagined one. If you’ve built something on this list before the need arrived, that’s a note for the audit log.
 
 ## Context loaded once (working now)
 
@@ -25,7 +25,7 @@
 
 ## Templates to build (when the need arrives, not before)
 
-- **[Template]** — [spec, in your words; point to where it's written down].
+- **[Template]** — [spec, in your words; point to where it’s written down].
 - **Session-end next action** — end each session with exactly one pre-decided action waiting, so the next hour starts without a decision. *(Adopt if a trial proves it.)*
 
 ## Workflows queued, in order of likely need
@@ -43,4 +43,4 @@ For any repeated work: **session** (did I do it well once?) → **saved prompt**
 
 *Write your own version. The point of the exercise, in one paragraph.*
 
-[A worked example: "Each layer feeds the next: the stack makes sessions cheaper, cheap sessions make notes accumulate, accumulated notes give the synthesis sweep something to find, and the long-term project gives all of it a destination. Leverage here isn't automation for its own sake — it's protecting the hour."]
+[A worked example: “Each layer feeds the next: the stack makes sessions cheaper, cheap sessions make notes accumulate, accumulated notes give the synthesis sweep something to find, and the long-term project gives all of it a destination. Leverage here isn’t automation for its own sake — it’s protecting the hour.”]
